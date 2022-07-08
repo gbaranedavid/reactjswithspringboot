@@ -20,6 +20,8 @@ target/
 *.ipr
 
 ### NetBeans ###
+/frontend/node_modules/
+/frontend/node/
 /nbproject/private/
 /nbbuild/
 /dist/
